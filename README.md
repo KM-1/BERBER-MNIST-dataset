@@ -46,7 +46,7 @@ Email: k.muqran@gmail.com
 
 Files
 -----
-The dataset consists of the following files:
+The folder consists of the following files:
 
 ```bash
 BERBER-MNIST 
