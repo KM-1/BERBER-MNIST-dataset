@@ -32,8 +32,8 @@ Authors
 -------
 K. M.
 
-Researcher at _Centre de Recherche en Langue et Culture Amazigh_
-_Bejaia, Algeria_
+Researcher at <small> _Centre de Recherche en Langue et Culture Amazigh_
+_Bejaia, Algeria_ </small>
 
 Files
 -----
