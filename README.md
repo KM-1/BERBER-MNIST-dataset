@@ -45,3 +45,6 @@ BERBER-MNIST
 |   csv2png.ipynb
 │   README.md       
 ```
+```
+https://www.kaggle.com/muqran/the-berbermnist-dataset
+```
