@@ -3,7 +3,7 @@ The BERBER-MNIST Dataset
 
 What is it?
 -----------
-The BERBER-MNIST Dataset is a set of handwritten uppercase character of Amazigh script. Derived from the EMNIST Dataset and **compatible with the MNIST paradigm**. 
+The BERBER-MNIST Dataset is a set of handwritten uppercase character of Amazigh script. Derived from the EMNIST Dataset and **compatible with the All MNIST algorithms**. 
 
 Formats
 -------
@@ -24,7 +24,7 @@ There are two different version of Amazigh Script provided in this dataset. A sh
 
 
 
-Authors
+Author
 -------
 K. M.
 
