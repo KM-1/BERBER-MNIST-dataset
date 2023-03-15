@@ -43,5 +43,5 @@ BERBER-MNIST
 ```
 ```
 https://www.kaggle.com/muqran/the-berbermnist-dataset
-10.34740/kaggle/dsv/5166176
+https://doi.org/10.34740/kaggle/dsv/5166176
 ```
