@@ -28,7 +28,7 @@ Author
 -------
 K. M.
 
-_Centre for Research in Amazigh Language and Culture (**CRLCA**), Bejaia, Algeria_ 
+_(**CRLCA**), Bejaia, Algeria_ 
 
 Files
 -----
