@@ -26,9 +26,7 @@ There are two different version of Amazigh Script provided in this dataset. A sh
 
 Author
 -------
-K. M.
-
-_(**CRLCA**), Bejaia, Algeria_ 
+K.Muqran at CRLCA
 
 Files
 -----
